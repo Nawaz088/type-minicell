@@ -1,3 +1,6 @@
+this is my implementation or just an atempt of making of what Tsoding was doing in his live stream 
+[Check his YT video ](https://youtu.be/HCAgvKQDJng)
+
 This goal of this project is to make a program that takes a csv file as an input and return a csv file output with resolved functions inside the input file
 
 ***./input.csv***

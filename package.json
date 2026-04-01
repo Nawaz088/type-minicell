@@ -1,0 +1,22 @@
+{
+  "name": "minicel",
+  "version": "1.0.0",
+  "description": "This goal of this project is to make a program that takes a csv file as an input and return a csv file output with resolved functions inside the input file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "node MyImplementation/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0"
+  }
+}
